@@ -1,0 +1,6 @@
+{
+  "name": "AM Pilot",
+  "description": "مساعد مدير الحسابات الذكي - منصة متكاملة باللغة العربية لإدارة محفظة العملاء والتجار، المتابعات، الاجتماعات، والتقارير التنفيذية مع ذكاء اصطناعي موجه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
