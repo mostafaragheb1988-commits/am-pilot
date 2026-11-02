@@ -1,0 +1,6 @@
+{
+  "summary": "Detailed implementation plan for AM Pilot (مساعد مدير الحسابات الذكي), an Arabic-first productivity and relationship management platform for Account Managers. Covers RTL design system, merchant database, calendar and meeting intelligence, follow-up queues, server-side Gemini AI features, analytics reports, and persistent data management.",
+  "updatedAt": "2026-11-02T16:19:52.783325509Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
